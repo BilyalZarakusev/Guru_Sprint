@@ -1,3 +1,5 @@
+package lesson2
+
 fun main() {
     val name = "Hauti"
     val number = 100
